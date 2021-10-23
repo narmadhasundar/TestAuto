@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="281" started-at="2021-10-22T17:28:05Z" finished-at="2021-10-22T17:28:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="281" started-at="2021-10-22T17:28:05Z" finished-at="2021-10-22T17:28:05Z">
+      <class name="testScript.tweetsharetest">
+        <test-method status="PASS" signature="fbook()[pri:0, instance:testScript.tweetsharetest@3576ddc2]" name="fbook" duration-ms="78" started-at="2021-10-22T22:58:05Z" finished-at="2021-10-22T22:58:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbook -->
+        <test-method status="PASS" signature="google()[pri:0, instance:testScript.tweetsharetest@3576ddc2]" name="google" duration-ms="59" started-at="2021-10-22T22:58:05Z" finished-at="2021-10-22T22:58:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+        <test-method status="PASS" signature="tweet()[pri:0, instance:testScript.tweetsharetest@3576ddc2]" name="tweet" duration-ms="59" started-at="2021-10-22T22:58:05Z" finished-at="2021-10-22T22:58:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tweet -->
+        <test-method status="PASS" signature="ytube()[pri:0, instance:testScript.tweetsharetest@3576ddc2]" name="ytube" duration-ms="62" started-at="2021-10-22T22:58:05Z" finished-at="2021-10-22T22:58:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ytube -->
+      </class> <!-- testScript.tweetsharetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
